@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Police Bureau App</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+
+
+    <string-array name="fir_status_spinner_items">
+        <item>All</item>
+        <item>Solved</item>
+        <item>Unsolved</item>
+    </string-array>
+
+    <string-array name="state_spinner_items">
+        <item>--Select--</item>
+        <item>Uttar Pradesh</item>
+        <item>Bihar</item>
+    </string-array>
+
+    <string-array name="district_bihar_spinner_items">
+        <item>--Select--</item>
+        <item>Patna</item>
+        <item>Ara</item>
+        <item>Buxar</item>
+    </string-array>
+
+    <string-array name="district_up_spinner_items">
+        <item>--Select--</item>
+        <item>Mirzapur</item>
+        <item>Varanasi</item>
+        <item>Jaunpur</item>
+    </string-array>
+
+    <string-array name="bihar_patna_spinner_items">
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="bihar_ara_spinner_items">
+        <item>--Select--</item>
+        <item>Mirzapur</item>
+        <item>Varanasi</item>
+        <item>Jaunpur</item>
+    </string-array>
+
+    <string-array name="bihar_buxar_spinner_items">
+        <item>--Select--</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="up_mirzapur_spinner_items">
+        <item>--Select--</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="up_varanasi_spinner_items">
+        <item>--Select--</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="up_jaunpur_spinner_items">
+        <item>--Select--</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="gender_spinner_items">
+        <item>--Select--</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="status_spinner_items">
+        <item>--Select--</item>
+        <item>Solved</item>
+        <item>Unsolved</item>
+    </string-array>
+
+    <string-array name="permission_spinner_items">
+        <item>--Select--</item>
+        <item>Type 1</item>
+        <item>Type 2</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="permission_status_spinner_items">
+        <item>--Select--</item>
+        <item>Granted</item>
+        <item>Pending</item>
+    </string-array>
+
+</resources>
